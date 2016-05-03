@@ -129,5 +129,8 @@
 
 ===
 
+#### Issues or additions 
+ - https://github.com/zlwaterfield/vi-cheatsheet/issues
+
 #### Credits
  - http://www.lagmonster.org/docs/vi.html
